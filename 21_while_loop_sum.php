@@ -1,3 +1,4 @@
+//Sum of First N Natural Numbers using While Loop
 <?php
 $n = 10;
 $sum = 0;
